@@ -3,6 +3,6 @@
 <h3 align="center">This is my Portfolio Website</h3>
 <br>
 <h1 align="center">Demo</h1>
-![image](https://user-images.githubusercontent.com/127623248/232169812-a4221204-91ce-44b7-b693-d49ed67cc08c.png)
+<img src="https://user-images.githubusercontent.com/127623248/232169812-a4221204-91ce-44b7-b693-d49ed67cc08c.png"/>
 
 
