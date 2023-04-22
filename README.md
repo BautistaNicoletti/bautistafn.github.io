@@ -4,7 +4,6 @@
 <br>
 <h1 align="center">Demo</h1>
 <a aling="center" href="https://bautistafn.com/">bautistafn.com</a>
-<br>
 <img src="https://user-images.githubusercontent.com/127623248/232169812-a4221204-91ce-44b7-b693-d49ed67cc08c.png"/>
 
 
